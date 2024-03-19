@@ -15,6 +15,8 @@
 <h2 id = "introduction">Introduction 🚀</h2>
 
 Welcome to Ink Canvas - a Python project that provides a simple whiteboard application built using Tkinter. This application allows users to draw, write, and annotate freely on a canvas using various tools provided.
+![image](https://github.com/Japneet001/Ink-Canvas/assets/121337325/dc39a3e4-2712-4678-be36-2f9a3932f991)
+
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -73,8 +75,9 @@ Welcome to Ink Canvas - a Python project that provides a simple whiteboard appli
     <tr>
         <td align="center">
             <a href="https://github.com/Japneet001">
-                <img src="" alt="Japneet Kaur" width="310px" height="310px">
+                <img src="https://github.com/Japneet001/Ink-Canvas/assets/121337325/74a46ebb-f985-4c05-9883-473349125229" alt="Japneet Kaur" width="310px" height="310px">
             </a>
+            <br>
             <br>
             <b>Japneet Kaur</b>
         </td>
